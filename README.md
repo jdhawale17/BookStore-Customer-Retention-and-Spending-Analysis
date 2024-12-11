@@ -1,5 +1,4 @@
 # BookStore-Customer-Retention-and-Spending-Analysis
-# Bookstore Data Analysis and Machine Learning Project
 
 This repository showcases a data analysis project undertaken for a bookstore client. The primary objectives were to perform an in-depth Exploratory Data Analysis (EDA) and develop Machine Learning (ML) algorithms to derive actionable insights and predict key outcomes based on the provided dataset.
 
